@@ -1,0 +1,53 @@
+/* CryptoPage.css */
+
+.crypto-page {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+  }
+  
+  .crypto-search {
+    margin-bottom: 20px;
+  }
+  
+  .crypto-heading {
+    margin-bottom: 10px;
+  }
+  
+  .crypto-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .crypto-container {
+    overflow-x: auto;
+  }
+  
+  .crypto-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .crypto-table th,
+  .crypto-table td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .coin-image {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .green {
+    color: green;
+  }
+  
